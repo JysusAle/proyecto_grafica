@@ -1,0 +1,28 @@
+# builds
+estadio
+SOIL2/*.o
+
+# visual studio / debug (no debe ir al repo)
+Debug/
+Release/
+*.exe
+*.suo
+*.user
+.vs/
+
+# blender
+*.blend1
+*.blend2
+
+# comprimidos y basura
+*.zip
+*.7z
+*.rar
+__pycache__/
+.DS_Store
+
+# archivos generados de latex
+*.aux
+*.log
+*.out
+*.toc
